@@ -18,14 +18,14 @@ function Projects() {
             <a href="https://github.com/ashishpathak1470/APP-CRM" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
                 alt="GitHub"
               />
             </a>
             <a href="https://app-crm-beta.vercel.app/" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
                 alt="Link"
               />
             </a>
@@ -41,14 +41,14 @@ function Projects() {
             <a href="https://github.com/ashishpathak1470/Movie-Library" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
                 alt="GitHub"
               />
             </a>
             <a href="https://movie-library-bay.vercel.app/" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
                 alt="Link"
               />
             </a>
@@ -64,14 +64,14 @@ function Projects() {
             <a href="https://github.com/ashishpathak1470/Seamless-Rail" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
                 alt="GitHub"
               />
             </a>
             <a href="https://github.com/ashishpathak1470/Seamless-Rail" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
                 alt="Link"
               />
             </a>
@@ -87,14 +87,14 @@ function Projects() {
             <a href="https://github.com/ashishpathak1470/CRUD-App" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
                 alt="GitHub"
               />
             </a>
             <a href="https://github.com/ashishpathak1470/CRUD-App" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
-                src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
                 alt="Link"
               />
             </a>
