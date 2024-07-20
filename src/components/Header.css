@@ -1,0 +1,26 @@
+.menu-item {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .menu-item::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: currentColor;
+    transition: width 0.3s ease;
+  }
+  
+  .menu-item:hover {
+    transform: scale(1.1);
+    color: cyan;
+  }
+  
+  .menu-item:hover::before {
+    width: 100%;
+  }
+  
