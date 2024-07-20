@@ -15,14 +15,14 @@ function Projects() {
             Transforming how you manage client relationships, CRM App brings together effortless client management, lightning-fast real-time communication, intuitive task tracking, customizable dashboards, powerful analytics for smart decisions, and robust security in one user-friendly platform. Revolutionize your business efficiency with CRM App and stay ahead in client management.
           </p>
           <div className="flex flex-row justify-center items-center">
-            <a href="https://github.com/ashishpathak1470/APP-CRM" target="_blank">
+            <a href="https://github.com/ashishpathak1470/APP-CRM" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
                 alt="GitHub"
               />
             </a>
-            <a href="https://app-crm-beta.vercel.app/" target="_blank">
+            <a href="https://app-crm-beta.vercel.app/" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
@@ -38,14 +38,14 @@ function Projects() {
             Dive into a world of entertainment with my comprehensive movie library app. Discover and organize your favorite movies effortlessly, explore new releases, and create personalized watchlists. With sleek design and user-friendly features, Movie Library is your ultimate companion for discovering, organizing, and enjoying movies. Start exploring today and unlock a world of cinematic wonders at your fingertips.
           </p>
           <div className="flex flex-row justify-center items-center">
-            <a href="https://github.com/ashishpathak1470/Movie-Library" target="_blank">
+            <a href="https://github.com/ashishpathak1470/Movie-Library" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
                 alt="GitHub"
               />
             </a>
-            <a href="https://movie-library-bay.vercel.app/" target="_blank">
+            <a href="https://movie-library-bay.vercel.app/" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
@@ -61,14 +61,14 @@ function Projects() {
             Experience effortless booking with my innovative rail reservation app. Seamlessly allocate seats for families and friends, ensuring everyone can sit together throughout the journey. Discover convenience with user-friendly features and real-time seat availability updates. Simplify your travel plans with Seamless Rail and enjoy a journey where togetherness meets comfort.
           </p>
           <div className="flex flex-row justify-center items-center">
-            <a href="https://github.com/ashishpathak1470/Seamless-Rail" target="_blank">
+            <a href="https://github.com/ashishpathak1470/Seamless-Rail" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
                 alt="GitHub"
               />
             </a>
-            <a href="https://github.com/ashishpathak1470/Seamless-Rail" target="_blank">
+            <a href="https://github.com/ashishpathak1470/Seamless-Rail" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
@@ -84,14 +84,14 @@ function Projects() {
             Simplify entity management with my efficient Quick Entity app. Quickly create entities and store data effortlessly. Whether you're managing projects, clients, or any other data, Quick Entity streamlines the process with intuitive features and robust data storage capabilities. Start organizing your entities with ease and speed using Quick Entity today.
           </p>
           <div className="flex flex-row justify-center items-center">
-            <a href="https://github.com/ashishpathak1470/CRUD-App" target="_blank">
+            <a href="https://github.com/ashishpathak1470/CRUD-App" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png"
                 alt="GitHub"
               />
             </a>
-            <a href="https://github.com/ashishpathak1470/CRUD-App" target="_blank">
+            <a href="https://github.com/ashishpathak1470/CRUD-App" target="_blank" rel="noopener noreferrer">
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png"
