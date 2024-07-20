@@ -97,6 +97,7 @@ function Projects() {
           <div className="flex flex-row justify-center items-center">
             <a
               href="https://github.com/ashishpathak1470/Seamless-Rail"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <img
@@ -107,6 +108,7 @@ function Projects() {
             </a>
             <a
               href="https://github.com/ashishpathak1470/Seamless-Rail"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <img
