@@ -33,14 +33,14 @@ function Home() {
           <img
             className="mx-2 w-7 h-7 md:w-9 md:h-9 lg:w-10 lg:h-10 hover:scale-110 shadow-2xl"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png"
-            alt="LinkedIn"
+            alt="LinkedIn Profile"
           />
         </a>
         <a href="https://github.com/ashishpathak1470" target="_blank" rel="noopener noreferrer">
           <img
             className="mx-2 w-7 h-7 md:w-9 md:h-9 lg:w-10 lg:h-10 hover:scale-110 shadow-2xl"
             src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"
-            alt="GitHub"
+            alt="GitHub Profile"
           />
         </a>
       </div>

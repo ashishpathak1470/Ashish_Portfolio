@@ -51,7 +51,7 @@ function Header() {
           </button>
         </div>
         <div className="md:hidden">
-          <button onClick={() => setIsOpen(!isOpen)}>
+          <button onClick={() => setIsOpen(!isOpen)} aria-label="Toggle Menu">
             <svg
               className="w-6 h-6"
               fill="none"
@@ -73,6 +73,7 @@ function Header() {
           <button
             className="absolute top-4 right-4"
             onClick={() => setIsOpen(false)}
+            aria-label="Close Menu"
           >
             <svg
               className="w-6 h-6"

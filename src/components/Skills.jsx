@@ -61,16 +61,16 @@ function Skills() {
       <div className="grid gap-8 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
         {skills.map((skill, index) => (
           <div key={index} className="relative group">
-            <button className="w-full py-4 px-6 bg-indigo-900 text-cyan-400 rounded-lg shadow-2xl flex justify-center items-center relative transform transition-transform duration-300 hover:scale-105">
+            <div className="w-full py-4 px-6 bg-indigo-900 text-cyan-400 rounded-lg shadow-2xl flex justify-center items-center relative transform transition-transform duration-300 hover:scale-110">
               {skill.name}
               <div className="absolute inset-0 flex items-center justify-center">
                 <img
                   src={skill.icon}
-                  alt={skill.name}
+                  alt={`Icon of ${skill.name}`}
                   className="w-16 h-16 md:w-24 md:h-24 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
                 />
               </div>
-            </button>
+            </div>
           </div>
         ))}
       </div>

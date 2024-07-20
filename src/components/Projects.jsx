@@ -30,7 +30,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-                alt="GitHub"
+                alt="GitHub Repository"
               />
             </a>
             <a
@@ -41,7 +41,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
-                alt="Link"
+                alt="Live Project"
               />
             </a>
           </div>
@@ -67,7 +67,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-                alt="GitHub"
+                alt="GitHub Repository"
               />
             </a>
             <a
@@ -78,7 +78,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
-                alt="Link"
+                alt="Live Project"
               />
             </a>
           </div>
@@ -103,7 +103,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-                alt="GitHub"
+                alt="GitHub Repository"
               />
             </a>
             <a
@@ -114,7 +114,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
-                alt="Link"
+                alt="Live Project"
               />
             </a>
           </div>
@@ -139,7 +139,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-                alt="GitHub"
+                alt="GitHub Repository"
               />
             </a>
             <a
@@ -150,7 +150,7 @@ function Projects() {
               <img
                 className="mx-4 w-7 sm:w-8 md:w-9 h-7 sm:h-8 md:h-9 hover:scale-110 shadow-2xl"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg/640px-OOjs_UI_icon_external-link-ltr-progressive.svg.png"
-                alt="Link"
+                alt="Live Project"
               />
             </a>
           </div>
