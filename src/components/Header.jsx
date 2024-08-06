@@ -37,7 +37,7 @@ function Header() {
             Skills
           </button>
           <a
-            href="https://drive.google.com/file/d/1KQQovAfV2VNwcSgLnkSt4S_UidtW3tZu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1RZwgz9pc_74mKlTpGRYrVhHcTZGMBjw_/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -102,7 +102,7 @@ function Header() {
             Skills
           </button>
           <a
-            href="https://drive.google.com/file/d/1KQQovAfV2VNwcSgLnkSt4S_UidtW3tZu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1RZwgz9pc_74mKlTpGRYrVhHcTZGMBjw_/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
