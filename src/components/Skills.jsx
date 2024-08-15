@@ -49,6 +49,30 @@ const skills = [
     name: "Redis",
     icon: "https://cdn.iconscout.com/icon/free/png-256/free-redis-3521673-2945117.png",
   },
+  {
+    name: "Docker",
+    icon: "https://ccie.tv/content/images/2019/08/docker.svg",
+  },
+  {
+    name: "Kubernetes",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg",
+  },
+  {
+    name: "MQTT",
+    icon: "https://ioctrl.com/wp-content/uploads/2021/12/mqtt-logo-ver.jpg",
+  },
+  {
+    name: "AWS",
+    icon: "https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY",
+  },
+  {
+    name: "Azure",
+    icon: "https://cdn.prod.website-files.com/65cc1a5539029072432d96ce/664e87adb2beaf8e46cc39cd_16x9-Azure-cloud.webp",
+  },
+  {
+    name: "GCP",
+    icon: "https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png",
+  },
 ];
 
 function Skills() {
