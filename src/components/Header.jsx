@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./Header.css";
 
 function Header() {
@@ -37,7 +37,7 @@ function Header() {
             Skills
           </button>
           <a
-            href="https://drive.google.com/file/d/13L725h7OCBl6mcjtXTtpShucdLYGYrID/view?usp=sharing"
+            href="https://drive.google.com/file/d/1TcvlRkxy-LuoTKkH6MLnlZWih0gB2dP-/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -102,7 +102,7 @@ function Header() {
             Skills
           </button>
           <a
-            href="https://drive.google.com/file/d/13L725h7OCBl6mcjtXTtpShucdLYGYrID/view?usp=sharing"
+            href="https://drive.google.com/file/d/1TcvlRkxy-LuoTKkH6MLnlZWih0gB2dP-/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
